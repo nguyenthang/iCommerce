@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+iCommerce.iml
+icommerce-web/icommerce-web.iml
+icommerce-web/target/
+core-commons/core-commons.iml
+core-commons/target/
+core-dto/core-dto.iml
+core-dto/target/
+core-services/core-services.iml
+core-services/target/
